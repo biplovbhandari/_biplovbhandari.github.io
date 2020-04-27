@@ -1,0 +1,54 @@
+I"þ<p><a href="./another-page.html">View my Github</a>
+<br />
+<a href="./another-page.html">View my LinkedIn</a></p>
+
+<h1 id="portfolio">Portfolio</h1>
+<hr />
+
+<h2 id="gic-sambro">GIC-SAMBRO</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<h2 id="saex">SAEx</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<h2 id="post-fire-recovery">post-fire-recovery</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<h2 id="online-newsportal">online-newsportal</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<p><a href="/sample_page">Project 1 Title</a>
+<img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<hr />
+<p><a href="/pdf/sample_presentation.pdf">Project 2 Title</a>
+<img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<hr />
+<p><a href="http://example.com/">Project 3 Title</a>
+<img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<hr />
+
+<h3 id="category-name-2">Category Name 2</h3>
+
+<ul>
+  <li><a href="http://example.com/">Project 1 Title</a></li>
+  <li><a href="http://example.com/">Project 2 Title</a></li>
+  <li><a href="http://example.com/">Project 3 Title</a></li>
+  <li><a href="http://example.com/">Project 4 Title</a></li>
+  <li><a href="http://example.com/">Project 5 Title</a></li>
+</ul>
+:ET

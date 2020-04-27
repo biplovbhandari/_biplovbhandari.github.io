@@ -1,0 +1,35 @@
+I"0<h3>[View my Github](./another-page.html)</h3>
+<p><br /></p>
+<h3>[View my LinkedIn](./another-page.html)
+</h3>
+
+<h1 id="portfolio">Portfolio</h1>
+<hr />
+
+<h2 id="gic-sambro">GIC-SAMBRO</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<h2 id="saex">SAEx</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<h2 id="post-fire-recovery">post-fire-recovery</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<h2 id="online-newsportal">online-newsportal</h2>
+
+<p><img src="assets/img/dummy_thumbnail.jpg?raw=true" /></p>
+
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore consequatur voluptatem voluptatibus, ipsam esse ea ratione sapiente doloribus eveniet ducimus dolores, quisquam nihil. Fuga deleniti, earum ducimus doloribus maiores consectetur.</p>
+
+<hr />
+
+:ET
